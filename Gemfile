@@ -37,6 +37,8 @@ gem 'simple_form'
 gem 'redcarpet'
 gem 'rails-controller-testing', '~> 1.0.1'
 
+gem 'devise'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
