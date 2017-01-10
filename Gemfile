@@ -35,6 +35,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass'
 gem 'simple_form'
 gem 'redcarpet'
+gem 'rails-controller-testing', '~> 1.0.1'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
